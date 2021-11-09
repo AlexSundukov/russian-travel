@@ -1,0 +1,48 @@
+/* Обнуляем браузерные стили */
+@import url(../vendor/normalize.css);
+/* Задаём шрифт и фон странницы */
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__container/page__container.css);
+/* Шапка */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__link/_ru/header__link_ru.css);
+/* Блок lead */
+@import url(../blocks/lead/__content/lead__content.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__track/lead__track.css);
+@import url(../blocks/lead/__caption/lead__caption.css);
+/* Блок intro */
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__content/intro__content.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__span-accent/intro__span-accent.css);
+/* Блок photo-grid */
+@import url(../blocks/photo-grid/photo-grid__container/photo-grid__container.css);
+@import url(../blocks/photo-grid/photo-grid__item/photo-grid__item.css);
+/* Блок places */
+@import url(../blocks/places/places.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__url-link/place__url-link.css);
+@import url(../blocks/place/__url-link/_url/place__url-link_url.css);
+@import url(../blocks/place/__url-link/_link/place__url-link_link.css);
+@import url(../blocks/place/__text/place__text.css);
+@import url(../blocks/place/__text/_paragraph/place__text_paragraph.css);
+/* Блок cover */
+@import url(../blocks/cover/__link/cover__link.css);
+@import url(../blocks/cover/__content/cover__content.css);
+@import url(../blocks/cover/__text/cover__text.css);
+@import url(../blocks/cover/__text/_title/cover__text_title.css);
+@import url(../blocks/cover/__text/_description/cover__text_description.css);
+/* Блок footer */
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__info/_link/footer__info_link.css);
+@import url(../blocks/footer/__copyright/_text/footer__copyright_text.css);

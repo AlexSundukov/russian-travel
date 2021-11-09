@@ -1,0 +1,22 @@
+.footer__info_link {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 1.12;
+    padding-right: 18px;
+}
+
+.footer__info_link:last-child {
+    padding-right: 0;
+}
+.footer__info_link:hover {
+    opacity: .8;
+    transition: opacity .4s;
+}
+
+@media screen and (max-width: 320px) {
+    .footer__info_link {
+        padding-right: 0;
+        padding-bottom: 32px;
+    }
+}

@@ -1,0 +1,4 @@
+.place__url-link {
+    grid-area: url-link;
+    align-self: end;
+}

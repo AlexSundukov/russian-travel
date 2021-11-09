@@ -1,0 +1,15 @@
+.cover__text_description {
+    font-size: 18px;
+    line-height: 1.22;
+    margin: 0 auto;
+    width: 360px;
+    text-align: center;
+}
+
+@media screen and (max-width: 320px) {
+    .cover__text_description {
+        font-size: 14px;
+        line-height: 1.14;
+        width: 288px;
+    }
+}
