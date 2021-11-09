@@ -2,23 +2,23 @@
     position: relative;
     text-align: center;
     z-index: 3;
-    padding-top: 245px;
+    padding: 245px 0;
 }
 
 @media screen and (max-width: 1024px) {
     .cover__text {
-        padding-top: 195px;
+        padding: 195px 0;
     }
 }
 
 @media screen and (max-width: 768px) {
     .cover__text {
-        padding-top: 115px;
+        padding: 115px 0;
     }
 }
 
 @media screen and (max-width: 320px) {
     .cover__text {
-        padding-top: 33px;
+        padding: 33px 0;
     }
 }

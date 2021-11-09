@@ -1,4 +1,4 @@
-.cover__text_description {
+.cover__text-description {
     font-size: 18px;
     line-height: 1.22;
     margin: 0 auto;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 320px) {
-    .cover__text_description {
+    .cover__text-description {
         font-size: 14px;
         line-height: 1.14;
         width: 288px;
