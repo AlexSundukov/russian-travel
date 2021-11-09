@@ -32,11 +32,11 @@
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__url/place__url.css);
+@import url(../blocks/place/__url-header/place__url-header.css);
 @import url(../blocks/place/__url-link/place__url-link.css);
-@import url(../blocks/place/__url-link/_url/place__url-link_url.css);
-@import url(../blocks/place/__url-link/_link/place__url-link_link.css);
 @import url(../blocks/place/__text/place__text.css);
-@import url(../blocks/place/__text/_paragraph/place__text_paragraph.css);
+@import url(../blocks/place/__text-paragraph/place__text-paragraph.css);
 /* Блок cover */
 @import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__content/cover__content.css);
@@ -46,5 +46,5 @@
 /* Блок footer */
 @import url(../blocks/footer/__container/footer__container.css);
 @import url(../blocks/footer/__info/footer__info.css);
-@import url(../blocks/footer/__info/_link/footer__info_link.css);
-@import url(../blocks/footer/__copyright/_text/footer__copyright_text.css);
+@import url(../blocks/footer/__info-link/footer__info-link.css);
+@import url(../blocks/footer/__copyright-text/footer__copyright-text.css);

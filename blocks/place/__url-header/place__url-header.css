@@ -1,4 +1,4 @@
-.place__url-link_url {
+.place__url-header {
     margin: 0;
     padding-bottom: 12px;
     font-size: 12px;
@@ -8,13 +8,13 @@
 }
 
 @media screen and (max-width: 768px) {
-    .place__url-link_url {
+    .place__url-header {
         line-height: 1;
     }
 }
 
 @media screen and (max-width: 320px) {
-    .place__url-link_url {
+    .place__url-header {
         margin-left: 16px;
     }
 }
