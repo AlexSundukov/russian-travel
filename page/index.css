@@ -3,6 +3,7 @@
 /* Задаём шрифт и фон странницы */
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__container/page__container.css);
+@import url(../vendor/fonts/fonts.css);
 /* Шапка */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
