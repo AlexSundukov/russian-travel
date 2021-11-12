@@ -5,7 +5,7 @@
     line-height: 1.63;
 }
 
-.place__text-paragraph:nth-child(2) {
+.place__text-paragraph:last-child {
     padding-bottom: 0;
 }
 

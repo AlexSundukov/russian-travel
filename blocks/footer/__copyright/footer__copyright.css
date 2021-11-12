@@ -1,11 +1,11 @@
-.footer__copyright-text {
+.footer__copyright {
     margin: 0;
     font-size: 14px;
     line-height: 1.14;
 }
 
 @media screen and (max-width: 320px) {
-    .footer__copyright-text {
+    .footer__copyright {
         line-height: 1;
     }
 }

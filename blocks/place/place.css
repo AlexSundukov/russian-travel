@@ -29,7 +29,7 @@
     }
 }
 
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 530px) {
     .place {
         max-width: 320px;
         grid-template-areas: 
