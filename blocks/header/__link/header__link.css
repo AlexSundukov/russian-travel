@@ -7,6 +7,11 @@
     padding-right: 18px;
 }
 
+.header__link:hover {
+    opacity: .8;
+    transition: opacity .4s;
+}
+
 .header__link:last-child {
     padding-right: 0;
 }

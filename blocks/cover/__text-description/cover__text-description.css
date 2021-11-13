@@ -6,7 +6,7 @@
     text-align: center;
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 380px) {
     .cover__text-description {
         font-size: 14px;
         line-height: 1.14;
